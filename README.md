@@ -1,7 +1,4 @@
-# It is my space station!
-## My name is 'Lydia' 
-
-![header](https://capsule-render.vercel.app/api?text=It is my space station! My name is 'Lydia' !type=soft&fontColor=d6ace6)
+![header](https://capsule-render.vercel.app/api?text=It%is%my%space%station!type=soft&fontColor=d6ace6)
 
 
 
