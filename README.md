@@ -1,7 +1,8 @@
 # It is my space station!
 ## My name is 'Lydia' 
 
-![header](https://capsule-render.vercel.app/api?type=soft)
+![header](https://capsule-render.vercel.app/api?text=It is my space station! My name is 'Lydia' !type=soft&fontColor=d6ace6)
+
 
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
