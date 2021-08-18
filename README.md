@@ -34,7 +34,7 @@
 <br>
 <h3 align="center"> 🧸 About Me 🧸 </h3>
 <p align="center"> 
-  <a href="bit.ly/3fF66E1"><img src="https://img.shields.io/badge/Notion-E4405F?style=flat-square&logo=Notion&logoColor=white&link=bit.ly/3fF66E1"/></a>&nbsp	
+  <a href="https://www.notion.so/hyezzzzziiiii/Space-station-7b90f3638f734379b4f79e84a30cdcac"><img src="https://img.shields.io/badge/Notion-E4405F?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/hyezzzzziiiii/Space-station-7b90f3638f734379b4f79e84a30cdcac"/></a>&nbsp	
   <a href="https://www.instagram.com/pageofabook/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/pageofabook/"/></a>&nbsp
   <a href="mailto:hyezzzzziiiii@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=hyezzzzziiiii@gmail.com"/></a>
 </p>
