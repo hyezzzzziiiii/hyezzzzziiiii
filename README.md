@@ -43,7 +43,7 @@
   <a href="https://www.notion.so/hyezzzzziiiii/Space-station-7b90f3638f734379b4f79e84a30cdcac"><img src="https://img.shields.io/badge/Notion-E4405F?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/hyezzzzziiiii/Space-station-7b90f3638f734379b4f79e84a30cdcac"/></a>&nbsp	
   <a href="https://www.instagram.com/pageofabook/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/pageofabook/"/></a>&nbsp
   <a href="mailto:hyezzzzziiiii@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=hyezzzzziiiii@gmail.com"/></a>
-  <a href="mailto:hyezzzzziiiii@gmail.com"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white&link=hyezzzzziiiii@gmail.com"/></a>
+  <a href="https://github.com/hyezzzzziiiii"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/hyezzzzziiiii"/></a>
 
 </p>
 
