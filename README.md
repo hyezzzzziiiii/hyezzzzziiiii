@@ -2,7 +2,7 @@
 <h2 align="center">Hi there, I'm Hyeji</h2>
 
 <p align="center">
-	Interested in Web Back-End🐟
+	Interested in Web🐟
 </p>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
