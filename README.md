@@ -6,6 +6,8 @@
 	I also have interests in various fields!
 </p>
 
+<br/>
+<br/>
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center"> Techs that I've used at least once </p>
@@ -24,11 +26,8 @@
   <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white"/></a>&nbsp 
 
 </p>
-
-<br>
-
-<br>
-<h3 align="center"></h3>
+<br/>
+<!-- <h3 align="center"></h3> -->
 
 <!-- 테마 참고: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 
