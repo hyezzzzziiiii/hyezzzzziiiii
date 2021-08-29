@@ -2,7 +2,8 @@
 <h2 align="center">Hi there, I'm Hyeji</h2>
 
 <p align="center">
-	Interested in Web🐟
+	Interested in Back-End & WEB & Design🐟
+	I also have interests in various fields!
 </p>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
