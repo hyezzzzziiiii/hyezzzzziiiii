@@ -1,6 +1,6 @@
 
 <h2 align="center">Hi there, I'm Hyeji</h2>
-
+<br/>
 <p align="center">
 	Interested in Back-End & WEB & Design🐟 <br/>
 	I also have interests in various fields!
