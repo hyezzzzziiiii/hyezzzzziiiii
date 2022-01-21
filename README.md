@@ -25,8 +25,6 @@
   <img src="https://img.shields.io/badge/html5-11B48A?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white"/></a>&nbsp  
-  <img src="https://img.shields.io/badge/Jenkins?style=flat-square&logo=jquery&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/JIRA?style=flat-square&logo=jquery&logoColor=white"/></a>&nbsp
 
 </p>
 <br/>
